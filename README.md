@@ -15,6 +15,7 @@ Youtube：波仔分享
 ====================================
 
 脚本安装命令
+bash <(curl -s -L https://github.com/V2RaySSR/Trojan/raw/master/Trojan.sh)
 
 curl -O https://raw.githubusercontent.com/V2RaySSR/Trojan/master/Trojan.sh && chmod  x trojan.sh && ./trojan.sh
 
